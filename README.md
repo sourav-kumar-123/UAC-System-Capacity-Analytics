@@ -3,7 +3,7 @@ System Capacity &amp; Care Load Analytics for Unaccompanied Children – A data 
 # System Capacity & Care Load Analytics for Unaccompanied Children
 
 ## Live Dashboard
-https://7mh3xdkj-8501.inc1.devtunnels.ms/
+https://uac-system-capacity-analytics-7thfixsueapgfpkovwvwel.streamlit.app/
 ## Project Overview
 This project analyzes capacity utilization, care load, intake pressure, backlog trends, and forecasting for the UAC healthcare system.
 
